@@ -20,11 +20,12 @@
 - [ ] Read [Akka documentation](http://doc.akka.io/docs/akka/2.4.1/java.html?_ga=1.25010746.126065938.1454054538)
 - [ ] Scala[http://www.scala-lang.org/]
 - [ ] [Spray](http://spray.io/), [Play](https://www.playframework.com/) frameworks
-- [ ] [Mokito](http://mockito.org/) for mocking in java testing
+- [x] [Mokito](http://mockito.org/) for mocking in java testing
 
 ## DevOps
+- [ ] Learn to install and use Docker Container
 - [ ] Configure and setup [HAProxy](http://www.haproxy.org/) to to reverse proxy with ssl terminationofr ssl pass-through
 - [ ] webpack Code-spliting and lazzyloading based on routes
-- [ ] webpack Configuration for testing environment
+- [x] webpack Configuration for testing environment
 - [ ] webpack Configure PostCss for testing environment
 
