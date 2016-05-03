@@ -4,6 +4,10 @@
 ## General Programming
 - [ ] Finish Reading [Mostly adequate guide](https://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html)
 
+
+## General Programming
+- [ ] Npm Modal Module
+
 ## Front-End Javascript
 - [x] Finish reading [react-rouer documentation](https://github.com/reactjs/react-router/tree/latest/docs)
 - [ ] A more capable selector for large number of items
@@ -23,6 +27,7 @@
 - [x] [Mokito](http://mockito.org/) for mocking in java testing
 
 ## DevOps
+- [ ] React Hot Loader 3
 - [ ] Learn to install and use Docker Container
 - [ ] Configure and setup [HAProxy](http://www.haproxy.org/) to to reverse proxy with ssl terminationofr ssl pass-through
 - [ ] webpack Code-spliting and lazzyloading based on routes
